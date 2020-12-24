@@ -2,9 +2,9 @@
 title: "Economic Statistics II"
 collection: teaching
 type: "Workshop"
-permalink: /Econ203
+permalink: /2015-spring-teaching-2.md
 venue: "University of Illinois"
-date: Spring 2019
+date: 2014-01-01
 location: "Champaign, IL"
 ---
 
