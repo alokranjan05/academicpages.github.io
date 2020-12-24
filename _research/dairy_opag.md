@@ -1,6 +1,6 @@
 ---
 title: "Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State"
-collection: publications
+collection: research
 permalink: /research/dairy_opag
 excerpt: 'A'
 date: 2009-10-01
