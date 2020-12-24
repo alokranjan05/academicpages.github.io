@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois, Department"
-date: "Fall 2020"
+date: 
 location: "Champaign, Illinois"
 ---
