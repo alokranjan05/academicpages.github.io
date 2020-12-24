@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Alok Ranjan"
-  avatar           : "Alok_wb.png"
+  avatar           : "profile.png"
   bio              : "Economics Phd Student"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "ABC"
+  googlescholar    : "PQR"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
