@@ -3,5 +3,12 @@ title: "Assessing the linkage between dairy productivity growth and climatic var
 collection: research
 permalink: https://doi.org/10.1515/opag-2018-0069
 paperurl: 'https://doi.org/10.1515/opag-2018-0069'
+
 ---
+
+## A 
+
+## B
+
+## [C](https://twitter.com/home) 
 
