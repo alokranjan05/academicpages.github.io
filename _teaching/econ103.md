@@ -1,9 +1,9 @@
 ---
-title: "Economic Statistics II"
+title: "Principles of Macroeconomics"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /econ203.md
+permalink: /econ103.md
 venue: "University of Illinois"
-date: 2019-01-01
+date: 2018-01-01
 location: "Champaign, IL"
 ---
