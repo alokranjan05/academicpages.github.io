@@ -4,9 +4,5 @@ collection: research
 permalink: https://doi.org/10.1515/opag-2018-0069
 ---
 
-## A 
-
-## B
-
 ## [C](https://twitter.com/home) 
 
