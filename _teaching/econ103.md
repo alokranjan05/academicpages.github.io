@@ -1,13 +1,9 @@
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
-redirect_from:
-  - /resume
 ---
-{% include base_path %}
+title: "Economic Statistics II"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /econ203.md
+venue: "University of Illinois"
+date: 2019-01-01
+location: "Champaign, IL"
 ---
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
