@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the [Department of Economics](https://economics.illinois.edu/) at the [University of Illinois, Urbana-Champaign].
+I'm a PhD student in the [Department of Economics](https://economics.illinois.edu/) at the [University of Illinois, Urbana-Champaign](https://illinois.edu/).
 
