@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Economic Statistics II"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /Econ203
+venue: "University of Illinois"
+date: Spring 2019
+location: "Champaign, IL"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
