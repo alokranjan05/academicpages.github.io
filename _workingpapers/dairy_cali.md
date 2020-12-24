@@ -1,8 +1,8 @@
 ---
-title: "Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State"
+title: "Impact of weather extremes on Dairy farming: Long-term evidence from California"
 collection: research
 permalink: /research/dairy_cali
-date: 2018-12-31
+date: 
 venue: 
 paperurl: 
 ---
