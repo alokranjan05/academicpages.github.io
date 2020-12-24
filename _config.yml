@@ -83,11 +83,11 @@ author:
   name             : "Alok Ranjan"
   avatar           : "profile.png"
   bio              : "Economics Phd Student"
-  location         : "Location"
+  location         : "Champaign, IL"
   employer         :
-  pubmed           : "ABC"
-  googlescholar    : "PQR"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "alok2@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,11 +99,11 @@ author:
   github           : "alokranjan05"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "alokranjan05"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
