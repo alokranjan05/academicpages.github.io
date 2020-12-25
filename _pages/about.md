@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alok Ranjan"
+title: "Alok Ranjan, PhD Candidate in Economics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
