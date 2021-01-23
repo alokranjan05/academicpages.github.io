@@ -12,9 +12,7 @@ author_profile: true
 {% endfor %}
 
 ### Working Papers
-{% for post in site.workingpapers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
 ### Work in Progress
 
