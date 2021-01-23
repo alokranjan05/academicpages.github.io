@@ -190,9 +190,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-   workingpapers:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
